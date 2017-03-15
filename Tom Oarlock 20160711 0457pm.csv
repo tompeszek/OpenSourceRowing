@@ -1,0 +1,26 @@
+Session Information:,,,,Device Information:
+
+Name:,JustGo-13699M,,,Name:,Tom Oarlock
+Start Time:,07/11/16 04:57pm,,,Model:,SpeedCoach GPS Pro
+Type:,Just Go,,,Serial:,2145957
+System of Units:,Meters/Split500,,,Firmware Version:,2.08.11
+Speed Input:,GPS,,,Profile Version:,0.02
+,,,,Hardware Version:,Rev 11
+,,,,LiNK Version:,1.26
+
+Session Summary:
+
+Total Intervals,Total Elapsed Time,Total Distance,Avg Split,Avg Speed,Avg Stroke Rate,Avg Heart Rate,Total Strokes
+(Interval),(HH:MM:SS.tenths),(Meters),(/500),(M/S),(SPM),(BPM),(Strokes)
+1,01:18:00.6,13699.1,00:02:51.2,2.92,20,---,0
+
+Summary for Session Intervals:
+
+Interval,Elapsed Time,Total Distance,Avg Split,Avg Speed,Avg Stroke Rate,Avg Heart Rate,Total Strokes
+(Interval),(HH:MM:SS.tenths),(Meters),(/500),(M/S),(SPM),(BPM),(Strokes)
+1,01:18:00.6,13699.1,00:02:51.2,2.92,20,---,0
+
+Session Detail Data:
+
+Interval,Elapsed Time,GPS Distance,GPS Split,GPS Speed,Stroke Rate,Heart Rate,Stroke Count
+(Interval),(HH:MM:SS.tenths),(Meters),(/500),(M/S),(SPM),(BPM),(Strokes)
